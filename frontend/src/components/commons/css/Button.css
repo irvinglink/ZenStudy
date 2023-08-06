@@ -1,0 +1,10 @@
+.btn-simple {
+    color: white;
+    border: none;
+    box-sizing: border-box;
+    border-bottom: 2px solid transparent;
+  }
+  
+  .btn-simple:hover {
+    border-bottom-color: white;
+  }
